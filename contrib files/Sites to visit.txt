@@ -1,0 +1,9 @@
+Sign up. Its a java course https://www.udemy.com/java-tutorial/
+
+Download all the files it tells you to https://developer.android.com/training/basics/firstapp/index.html
+
+
+Download the JDK, and the JRE http://www.oracle.com/technetwork/java/javase/downloads/index.html
+
+
+IDE for Java http://www.eclipse.org/downloads/packages/eclipse-ide-java-ee-developers/marsr
