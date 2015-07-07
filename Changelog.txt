@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 07/02/2015 - Initial Commit. All further changes to the program will be documented here! 
+=======
+Initial Commit. All further changes to the program will be documented here! (07/02/2015) 
+
+V.0 - Setup the github repo to accominate collaberators. BEGAN CODING    (07/03/2015)
+>>>>>>> origin/master
